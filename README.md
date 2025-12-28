@@ -17,10 +17,23 @@ Este sistema integral fue diseñado para optimizar la toma de pedidos y la factu
 * **Herramientas de Diseño:** Estilos personalizados para una experiencia de usuario intuitiva.
 
 ## 📸 Demo y Capturas
-*(Te sugiero subir fotos de estas secciones a tu repositorio para que el reclutador las vea de inmediato)*
-1. **Login de Usuario:** [Añadir imagen aquí]
-2. **Panel de Pedidos:** [Añadir imagen aquí]
-3. **Ejemplo de Comprobante PDF:** [Añadir imagen aquí]
+
+1. **Inicio**
+
+   <img width="1353" height="634" alt="image" src="https://github.com/user-attachments/assets/fdd6f450-bf91-4f1d-bf37-5197fe545986" />
+
+3. **Login de Usuario:**
+
+   <img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/a1eb81ee-6557-4b38-bd0f-9a42f240ad84" />
+
+5. **Panel de Pedidos:**
+
+   <img width="1348" height="626" alt="image" src="https://github.com/user-attachments/assets/58184a82-8612-43be-84f7-5a386f409f7c" />
+
+7. **Ejemplo de Comprobante PDF:**
+
+   <img width="788" height="565" alt="image" src="https://github.com/user-attachments/assets/74b96981-5bcd-4eae-83dc-7b1f2fdc9a42" />
+
 
 ## 💻 Instalación y Configuración (Entorno Local)
 1. Clonar el repositorio en tu carpeta `htdocs` de XAMPP.
