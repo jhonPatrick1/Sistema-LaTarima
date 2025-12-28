@@ -1,4 +1,4 @@
-# 🛒 Sistema de Gestión de Pedidos - La Tarima (Prototipo Académico)
+# 🛒 Sistema de Gestión de Pedidos - La Tarima
 
 > **Nota:** Este es un **proyecto académico** desarrollado para el curso de Ingeniería Web. Su propósito es demostrar habilidades en desarrollo backend y gestión de bases de datos, no siendo un software oficial de uso comercial.
 
