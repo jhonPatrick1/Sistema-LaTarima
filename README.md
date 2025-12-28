@@ -27,6 +27,4 @@ Este sistema integral fue diseñado para optimizar la toma de pedidos y la factu
 2. Importar el archivo ubicado en `/db/latarima_bd.sql` (o el nombre que tenga tu archivo SQL) en tu phpMyAdmin.
 3. Configurar las credenciales de acceso en el archivo `conexion.php`.
 4. Acceder vía navegador a `localhost/Sistema-LaTarima-PHP`.
-
-## 🎓 Contexto del Proyecto
-Este trabajo representa la culminación práctica de conceptos de arquitectura de software y persistencia de datos aplicados a problemas de negocio reales durante mi formación profesional.
+5. http://latarimaburguer.rf.gd/
