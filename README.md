@@ -8,7 +8,7 @@ Este sistema integral fue diseñado para optimizar la toma de pedidos y la factu
 * **Autenticación Segura:** Sistema de login con diferentes niveles de acceso para clientes y administradores.
 * **Carrito de Compras:** Gestión dinámica de productos con cálculo automático de totales.
 * **Generación de Comprobantes:** Creación de recibos de pago automatizados en formato PDF (usando la librería FPDF).
-* **Base de Datos Relacional:** Gestión completa de inventarios, usuarios y pedidos mediante MySQL.
+* **Base de Datos Relacional:** Gestión completa de inventarios, comentarios, usuarios y pedidos mediante MySQL.
 
 ## 🛠️ Stack Tecnológico
 * **Lenguaje Backend:** PHP.
