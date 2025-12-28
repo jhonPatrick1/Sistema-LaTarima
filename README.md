@@ -16,7 +16,7 @@ Este sistema integral fue diseñado para optimizar la toma de pedidos y la factu
 * **Frontend:** HTML5, CSS3 y JavaScript.
 * **Herramientas de Diseño:** Estilos personalizados para una experiencia de usuario intuitiva.
 
-## 📸 Demo y Capturas
+## 📸 Capturas del Sistema
 
 1. **Inicio**
 
