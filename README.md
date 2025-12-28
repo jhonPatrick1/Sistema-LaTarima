@@ -37,7 +37,7 @@ Este sistema integral fue diseñado para optimizar la toma de pedidos y la factu
 
 ## 💻 Instalación y Configuración (Entorno Local)
 1. Clonar el repositorio en tu carpeta `htdocs` de XAMPP.
-2. Importar el archivo ubicado en `/db/latarimaOficial.sql` (o el nombre que tenga tu archivo SQL) en tu phpMyAdmin.
+2. Importar el archivo ubicado en `/db/latarimaOficial.sql` en tu phpMyAdmin.
 3. Configurar las credenciales de acceso en el archivo `conexion.php`.
 4. Acceder vía navegador a `http://localhost:3000/LaTarima/index.php`.
 
