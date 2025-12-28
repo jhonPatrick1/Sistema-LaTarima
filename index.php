@@ -84,15 +84,6 @@ session_start();
 </a>
   </div>
 </section>
-
-  <!-- CONTENIDO -->
-  <section class="contenido container py-5">
-    <h2 class="mb-4 text-center">Bienvenido a La Tarima</h2>
-    <p class="lead text-center">
-      Aquí podrás ver nuestros productos, promociones y hacer tus pedidos fácilmente 🍔
-    </p>
-  </section>
-
   <!-- FOOTER -->
   <footer class="bg-dark text-white text-center py-3">
     <p class="mb-0">&copy; 2025 La Tarima - Todos los derechos reservados</p>
